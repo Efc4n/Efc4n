@@ -27,5 +27,5 @@
 [javascript]: https://www.javascript.com/
 [html]: https://www.javascript.com/
 <br />
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=heivile&show_icons=true&theme=radical)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=Heixd&show_icons=true&theme=radical)
 <br />
