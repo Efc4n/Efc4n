@@ -1,5 +1,5 @@
 <p float="left">
-  <img src="https://cdn.discordapp.com/attachments/852588941467320330/893543847936802886/New_Project_8.jpg" width="500" />
+  <img src="https://cdn.discordapp.com/attachments/852588941467320330/893543847936802886/New_Project_8.jpg" width="600" />
 </p>
 ―――――――――――――――――――――――――――――――――
 
