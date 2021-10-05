@@ -17,13 +17,14 @@
 [github]: https://github.com/Hei-Fi
 [instagram]: https://instagram.com/heifi_
 
-![](https://visitor-badge.glitch.me/badge?page_id=Heixd.Heixd)
 
 ### Languages:
 [<img align="left" alt="Python" width="26px" src="https://cdn.discordapp.com/attachments/852588941467320330/893178692048658432/28884.png" />][python]
 [<img align="left" alt="Python" width="26px" src="https://cdn.discordapp.com/attachments/852588941467320330/893178806649618442/136489.png" />][javascript]
 [<img align="left" alt="Python" width="26px" src="https://cdn.discordapp.com/attachments/852588941467320330/893179365188317264/136487.png" />][html]
 <br />
+
+![](https://visitor-badge.glitch.me/badge?page_id=Heixd.Heixd)
 
 [python]: https://www.python.org/
 [javascript]: https://www.javascript.com/
