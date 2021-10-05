@@ -17,6 +17,8 @@
 [github]: https://github.com/Hei-Fi
 [instagram]: https://instagram.com/heifi_
 
+![](https://visitor-badge.glitch.me/badge?page_id=Heixd.Heixd)
+
 ### Languages:
 [<img align="left" alt="Python" width="26px" src="https://cdn.discordapp.com/attachments/852588941467320330/893178692048658432/28884.png" />][python]
 [<img align="left" alt="Python" width="26px" src="https://cdn.discordapp.com/attachments/852588941467320330/893178806649618442/136489.png" />][javascript]
