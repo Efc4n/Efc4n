@@ -38,3 +38,5 @@
 <br />
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=Heixd&show_icons=true&theme=radical)
 <br />
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/333219939148103700)](https://discord.com/users/333219939148103700)
