@@ -1,41 +1,17 @@
+```js
+class Hei{
+  constructor(...options) {
+    this.height = "1.78"
+    this.weight = "54"
+    this.type = "human"
+    this.job = "student"
+    this.sex = "male"
+  }
+}
+```
 
-
-<h2 align="center">🌑 Hi i'am Hei</h2>
-
-<h2 align="center">
- <p float="left">
- <img src="https://cdn.discordapp.com/attachments/852588941467320330/893543847936802886/New_Project_8.jpg" width="600" />
-</p>
-</h2>
-
-### My Social Media Accounts
-
-[<img align="left" alt="GitHub" width="26px" src="https://cdn.discordapp.com/attachments/852588941467320330/893178499593043979/1384028.png" />][Youtube]
-[<img align="left" alt="GitHub" width="26px" src="https://cdn.discordapp.com/attachments/852588941467320330/893178383251427358/49440.png" />][Pinterest]
-[<img align="left" alt="GitHub" width="26px" src="https://cdn.discordapp.com/attachments/852588941467320330/893178119488438302/1384019.png" />][Reddit]
-[<img align="left" alt="GitHub" width="26px" src="https://cdn.discordapp.com/attachments/852588941467320330/893177916236656660/733609.png" />][github]
-[<img align="left" alt="GitHub" width="26px" src="https://cdn.discordapp.com/attachments/852588941467320330/893177406767124490/1384031.png" />][instagram]
-<br />
-
-[Youtube]: https://www.youtube.com/channel/UCpF1oTbjTcTsOiYZZTOuAcQ
-[Pinterest]: https://tr.pinterest.com/HeiFi0/
-[Reddit]: https://www.reddit.com/user/HeiFi0
-[github]: https://github.com/Hei-Fi
-[instagram]: https://instagram.com/heifi_
-
-
-### Languages:
-[<img align="left" alt="Python" width="26px" src="https://cdn.discordapp.com/attachments/852588941467320330/893178692048658432/28884.png" />][python]
-[<img align="left" alt="Python" width="26px" src="https://cdn.discordapp.com/attachments/852588941467320330/893178806649618442/136489.png" />][javascript]
-[<img align="left" alt="Python" width="26px" src="https://cdn.discordapp.com/attachments/852588941467320330/893179365188317264/136487.png" />][html]
-<br />
-
-![](https://visitor-badge.glitch.me/badge?page_id=Heixd.Heixd)
-
-[python]: https://www.python.org/
-[javascript]: https://www.javascript.com/
-[html]: https://www.javascript.com/
-<br />
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=Heixd&show_icons=true&theme=radical)
-
-<br />
+<p align="center">
+ <a href="https://discord.com/users/333219939148103700"><img src="https://img.shields.io/badge/Hei%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+     <a href="https://www.instagram.com/heireall" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://github.com/Heixd"><img src="https://img.shields.io/badge/Yashinu%20-1d202b.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://discord.gg/1443"><img src="https://img.shields.io/badge/1443%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
