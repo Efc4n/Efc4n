@@ -12,7 +12,7 @@ class Hei{
 
 <p align="center">
      <a href="https://www.instagram.com/heisocialmedia" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://github.com/Heixd"><img src="https://img.shields.io/badge/Hei%20-1d202b.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/efc4n"><img src="https://img.shields.io/badge/Efc4n%20-1d202b.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Heixd&label=Ziyaretçi%20Sayısı&color=552b75" alt="Heixd" />
+<img src="https://komarev.com/ghpvc/?username=Efc4n&label=Ziyaretçi%20Sayısı&color=552b75" alt="Efc4n" />
