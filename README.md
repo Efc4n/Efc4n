@@ -1,5 +1,5 @@
 ```js
-class Hei{
+class Efc4n{
   constructor(...options) {
     this.height = "1.81"
     this.weight = "54"
