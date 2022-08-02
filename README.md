@@ -1,8 +1,6 @@
 ```js
 class Efc4n{
   constructor(...options) {
-    this.height = "1.81"
-    this.weight = "54"
     this.type = "human"
     this.job = "student"
     this.sex = "male"
