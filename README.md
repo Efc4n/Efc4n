@@ -3,7 +3,7 @@ class Efc4n{
   constructor(...options) {
     this.type = "human"
     this.job = "student"
-    this.sex = "male"
+    this.gender = "male"
   }
 }
 ```
