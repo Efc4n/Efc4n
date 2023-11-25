@@ -9,7 +9,7 @@ class Efc4n{
 ```
 <p align="center">
 <a href="https://github.com/efc4n"><img src="https://img.shields.io/badge/GITHUB%20-1d202b.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://instagram.com/efc4n"><img src="https://img.shields.io/badge/INSTAGRAM%20-1d202b.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://instagram.com/efezannn"><img src="https://img.shields.io/badge/INSTAGRAM%20-1d202b.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
   
 <h4 align="center">Software Languages</h4>
 <p align="center">
